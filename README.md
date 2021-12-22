@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do Upholstery, rebuild cars and watch movies
 
 <br />
